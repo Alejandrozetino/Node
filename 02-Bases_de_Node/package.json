@@ -1,0 +1,15 @@
+{
+  "name": "02-bases_de_node",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar con TXT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
