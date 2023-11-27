@@ -1,0 +1,24 @@
+# En este proyecto se pusierón en práctica los siguiente temas:
+
+1) Definir los alcances de nuestro RESTServer
+2) CRUD
+3) Encriptación de contraseñas (Package: bcryptjs)
+4) Validaciones personalizadas (Correo - Package: express-validator)
+5) Creación de roles
+6) Conexiones con MLAB
+7) Despliegue de base de datos en la nube (MongoDB)
+8) Conexión con Robo 3T con base de datos en la nube
+9) Configuración de variables de entorno
+10) Borrado de archivos
+    10.1) Eliminado físico de la base de datos
+    10.2) Eliminación por estado en un campo de la colección
+11) JWT
+12) Protección de rutas vía token
+13) Leer payload del token sin la firma
+14) Generar API Key de Google
+15) Generar API Secret
+16) Uso del Google SignIn en el Front-End
+17) Carga de archivos y validaciones de archivos
+18) Cargar imágenes a los productos
+19) Servicio para mostrar y proteger imágenes
+20) Cloudinary
